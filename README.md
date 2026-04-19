@@ -1,7 +1,7 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/huraira-younas)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Huraira!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Huraira+Younas!" />
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@ I use Flutter for cross-platform development. My passion for programming languag
 
 ---
 
-<p align="left"> <img src="https://profile-counter.glitch.me/huraira-younas/count.svg?" alt="huraira-younas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huraira-younas&label=Profile%20views&color=0e75b6&style=flat" alt="huraira-younas" /> </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/huraira-younas)**
 - 🌱 I’m currently learning and refining my skills in Mobile Development
@@ -125,7 +125,7 @@ I use Flutter for cross-platform development. My passion for programming languag
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Support & Cool Projects 
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Support & Cool Projects
 
 <br clear="both">
 
