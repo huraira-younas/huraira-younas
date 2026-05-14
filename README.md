@@ -140,5 +140,5 @@ I use Flutter for cross-platform development. My passion for programming languag
 <p>
 ☕ I don't like coffee or tea.
 🎨 Outside of coding, I enjoy drawing.
-👹 Demon Slayer is my favorite anime.
+👹 I live to watch animes.
 </p>
